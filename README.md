@@ -93,7 +93,7 @@ with Nogizaka46.
 Copyright (c) 2015, Takaaki TSUJIMOTO <2gmon.t@gmail.com>
 
 Original Copyright (c) 2005 - 2013, Kentaro Kuribayashi
-&lt;kentaro@cpan.org>
+<kentaro@cpan.org>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
