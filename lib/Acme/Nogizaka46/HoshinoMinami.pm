@@ -5,6 +5,7 @@ use warnings;
 
 use base qw(Acme::Nogizaka46::Base);
 
+our $VERSION = 0.0.3;
 
 sub info {
     return (
