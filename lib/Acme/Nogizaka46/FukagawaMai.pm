@@ -5,7 +5,7 @@ use warnings;
 
 use base qw(Acme::Nogizaka46::Base);
 
-our $VERSION = 0.2;
+our $VERSION = 0.3;
 
 sub info {
     return (
@@ -19,7 +19,7 @@ sub info {
         hometown       => '静岡',
         class          => 1,
         center         => undef,
-        graduate_date  => undef,
+        graduate_date  => $_[0]->_datetime_from_date('2016-06-16'),
     );
 }
 
